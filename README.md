@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishan ahmad siddiqui
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking for Internship
 - 📫 How to reach me ...
