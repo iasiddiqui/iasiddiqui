@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishan ahmad siddiqui
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning DSA
+- 🌱 I know :-DSA | Problem Solving |JAVA | Python | DBMS | Photoshop | Illustrator | 
 - 💞️ I’m looking for Internship
 - 📫 How to reach me ...
 - Linkedin:
