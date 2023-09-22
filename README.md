@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishan ahmad siddiqui
 - 👀 I’m interested in Full Stack Development
-- 🌱 I know :-DSA | Problem Solving | JAVA | Python | DBMS | HTML | CSS | JavaScrip | Photoshop | Illustrator | 
-- 💞️ I’m looking for full time Job
+- 🌱 I know :-DSA | Problem Solving | JAVA | Python | DBMS | HTML | CSS | JavaScript | Photoshop | Illustrator | 
+- 💞️ I’m looking for full-time Job
 - 📫 How to reach me ...
 - Linkedin:
 - www.linkedin.com/in/ishan-ahmad-siddiqui
