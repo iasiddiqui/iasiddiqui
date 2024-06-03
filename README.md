@@ -22,4 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iasiddiqui&show_icons=true&locale=en&layout=compact" alt="iasiddiqui" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iasiddiqui&" alt="iasiddiqui" /></p>
 
-![snake gif](https://github.com/iasiddiqui/iasiddiqui/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br clear="both"/>
+<img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
