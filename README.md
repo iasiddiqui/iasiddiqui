@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=iasiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="iasiddiqui" /> 
 </p>
 
-- 👨‍💻 Check out my [Portfolio](https://ishan-ahmad-sddiqui.netlify.app/)
+- 👨‍💻 Check out my [Portfolio]([https://ishan-ahmad-sddiqui.netlify.app/](https://portfolio-react-ebon-ten.vercel.app/))
 
 - 📫 Reach me at **ishansiddiqui011@gmail.com**
 
